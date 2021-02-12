@@ -16,7 +16,7 @@ rm : Supprimez de manière définitive un fichier (tapez "rm" puis le nom de vot
 
 cp : Pour copier un fichier (tapez cp/ puis le chemin qui mène à votre fichier).
 
-mv : Pour déplacer un fichier entre vos répertoires..
+mv : Pour déplacer un fichier entre vos répertoires.
 
 clear : Effacer les lignes précédentes.
 
